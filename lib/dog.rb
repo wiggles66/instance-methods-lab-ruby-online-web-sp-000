@@ -1,5 +1,5 @@
 class Dog
-  def bark  # define our instance method
+  def bark
     puts 'Woof!'
   end
 end
